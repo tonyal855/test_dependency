@@ -121,6 +121,7 @@
                     
                     <!-- Am I the latest version? -->
                     <versionCheckEnabled>false</versionCheckEnabled>
+		   <outputDirectory>${dependency.check.report.dir}</outputDirectory>
                 </configuration>
             </plugin>
             <plugin>
