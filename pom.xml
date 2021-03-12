@@ -120,7 +120,7 @@
                     <!-- Don't use Nexus Analyzer -->
                     
                     <!-- Am I the latest version? -->
-                    <versionCheckEnabled>true</versionCheckEnabled>
+                    <versionCheckEnabled>false</versionCheckEnabled>
                 </configuration>
             </plugin>
             <plugin>
